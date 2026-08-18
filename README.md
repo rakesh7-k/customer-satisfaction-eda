@@ -43,13 +43,3 @@ An end-to-end data science project analyzing customer support ticket metrics to 
 
 ---
 
-## 🚀 How to Run Locally
-
-### Prerequisites
-* Python 3.8+
-* VS Code or Jupyter Notebook environment
-
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/your-username/customer-satisfaction-eda.git](https://github.com/your-username/customer-satisfaction-eda.git)
-cd customer-satisfaction-eda
